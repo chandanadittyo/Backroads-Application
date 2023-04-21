@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="nav-center">
           <div className="nav-header">
             <img
-              src="/src/assets/logo.svg"
+              src="/src/images/logo.svg"
               className="nav-logo"
               alt="backroads"
             />
